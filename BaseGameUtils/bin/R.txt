@@ -1,0 +1,4 @@
+int string gamehelper_app_misconfigured 0x7f020001
+int string gamehelper_license_failed 0x7f020002
+int string gamehelper_sign_in_failed 0x7f020000
+int string gamehelper_unknown_error 0x7f020003

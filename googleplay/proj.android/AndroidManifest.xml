@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.cocos2dx.plugin"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17" />
+    <application >
+        <meta-data android:name="com.google.android.gms.version"
+                   android:value="@integer/google_play_services_version"
+         			android:allowBackup="true" 
+         			android:label="libGameCenter" />		
+        </application>
+
+
+</manifest>
